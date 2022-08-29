@@ -36,3 +36,16 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+## Our members
+
+### 2022 - 2023 SGSA Officers
+
+- ​PRESIDENT - [ ](@stat.tamu.edu)
+- VICE PRESIDENT - [ ](@stat.tamu.edu)
+- TREASURER - [ ](@tamu.edu)
+- DEPARTMENT DELEGATE - [ ](@stat.tamu.edu)
+- DEPARTMENT DELEGATE - [ ](@stat.tamu.edu)
+- SECRETARY/SOCIAL CHAIR - [ ](@stat.tamu.edu)
+- IT OFFICER/WEBMASTER - [ ](@stat.tamu.edu)
+- STATCAFE ORGANIZER - [ ](@stat.tamu.edu)
