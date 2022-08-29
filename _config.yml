@@ -290,3 +290,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Collections
+collections:
+  StatCafe:
+    output: true
+    permalink: /:collection/:path/
+  WelcomeBBQ:
+    output: true
+    permalink: /:collection/:path/
