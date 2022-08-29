@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Upcoming Events"
     url: /upcoming-events/
   - title: "Past Events"
