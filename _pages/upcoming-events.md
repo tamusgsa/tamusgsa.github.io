@@ -2,6 +2,7 @@
 permalink: /upcoming-events/
 title: "Upcoming Events"
 layout: single
+author_profile: true
 ---
 
 ## SGSA Constitution
