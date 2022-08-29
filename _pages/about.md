@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "About us"
 layout: single
 author_profile: true
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "TAMU SGSA is a student association."
 layouts_gallery:
   - url: /assets/images/officers2014.jpeg
     image_path: /assets/images/officers2014.jpeg
@@ -29,7 +29,7 @@ toc: true
 
 **The Statistics Graduate Student Association, (SGSA)**, is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption="TAMU SGSA officers from `2014-2015`, `2015-2016`, `2016-2017`, `2017-2018`, `2018-2019`, `2019-2020`." %}
 
 ## SGSA Constitution
 
