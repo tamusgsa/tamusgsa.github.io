@@ -41,11 +41,11 @@ feature_row:
 
 ### 2022 - 2023 SGSA Officers
 
-- ​PRESIDENT - [Will Boyles](will@stat.tamu.edu)
-- VICE PRESIDENT - [Isaac Ray](null@stat.tamu.edu)
-- SECRETARY/SOCIAL CHAIR - [Asmita Roy](asmita@stat.tamu.edu)
-- TREASURER - [Jiangyuan Li](jiangyuanli@stat.tamu.edu)
-- IT OFFICER/WEBMASTER - [Anthony Li](anthony.li@stat.tamu.edu)
-- STATCAFE ORGANIZER - [Gozde Sert](gozdesert@stat.tamu.edu)
-- DEPARTMENT DELEGATE - [Rebecca Lee](llrebecca21@stat.tamu.edu)
-- DEPARTMENT DELEGATE - [Alexander Coulter](coultera@stat.tamu.edu)
+- ​PRESIDENT - [Will Boyles](mailto:will@stat.tamu.edu)
+- VICE PRESIDENT - [Isaac Ray](mailto:null@stat.tamu.edu)
+- SECRETARY/SOCIAL CHAIR - [Asmita Roy](mailto:asmita@stat.tamu.edu)
+- TREASURER - [Jiangyuan Li](mailto:jiangyuanli@stat.tamu.edu)
+- IT OFFICER/WEBMASTER - [Anthony Li](mailto:anthony.li@stat.tamu.edu)
+- STATCAFE ORGANIZER - [Gozde Sert](mailto:gozdesert@stat.tamu.edu)
+- DEPARTMENT DELEGATE - [Rebecca Lee](mailto:llrebecca21@stat.tamu.edu)
+- DEPARTMENT DELEGATE - [Alexander Coulter](mailto:coultera@stat.tamu.edu)
