@@ -8,6 +8,10 @@ layout: single
 - Location: BLOC 503
 - Snacks and drinks will be provided
 
+### Topic
+
+High-dimensional Machine Learning and its Applications in Finance
+
 ### Abstract
 
 Feature selection, also known as variable selection, is a machine learning technique for dimensionality reduction. In this talk, I will cover Bayesian feature selection techniques in multivariate time series modeling from Gaussian to non-Gaussian, for mean prediction and joint quantile prediction, respectively.  The proposed models with feature selection have higher learning accuracy and better model interpretability, and are able to outperform classical time series models over various scenarios consistently.  Extensive simulations were run to investigate properties such as estimation accuracy and performance in forecasting. This was followed by empirical studies with one-step-ahead predictions on the max log return of a portfolio of stocks that involve four leading financial institutions.

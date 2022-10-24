@@ -1,11 +1,16 @@
 ---
-title: "Trend Filtering with Adaptive Bayesian Changepoint Analysis for Count Time Series"
+title: "2022-10-03 Stat Cafe - Dr. Schafer"
+excerpt: "Trend Filtering with Adaptive Bayesian Changepoint Analysis for Count Time Series"
 layout: single
 ---
 
 - Time: Monday 10/03 from 11:30 AM to 12:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
+
+### Topic
+
+Trend Filtering with Adaptive Bayesian Changepoint Analysis for Count Time Series
 
 ## Abstract
 

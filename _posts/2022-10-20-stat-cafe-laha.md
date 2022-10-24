@@ -1,11 +1,16 @@
 ---
-title: "Optimal dynamic treatment regimes via smooth surrogate losses"
+title: "2022-10-20 Stat Cafe - Dr. Laha"
+excerpt: "Optimal dynamic treatment regimes via smooth surrogate losses"
 layout: single
 ---
 
-- Time: Monday 10/03 from 11:30 AM to 12:30 PM
+- Time: Monday 10/20 from 2:30 PM to 3:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
+
+### Topic
+
+Optimal dynamic treatment regimes via smooth surrogate losses
 
 ## Abstract
 
