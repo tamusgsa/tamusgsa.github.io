@@ -2,10 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Upcoming Events"
-    url: /upcoming-events/
-  - title: "Past Events"
-    url: /past-events/
+  - title: "Events"
+    url: /events/
   - title: "Gallery"
     url: /gallery/
   - title: "About"
