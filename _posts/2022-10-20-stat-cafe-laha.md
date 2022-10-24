@@ -12,7 +12,7 @@ layout: single
 
 Optimal dynamic treatment regimes via smooth surrogate losses
 
-## Abstract
+### Abstract
 
 Large health care data repositories such as electronic health records (EHR) open
 new opportunities to derive individualized treatment strategies for complicated diseases
