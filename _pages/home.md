@@ -13,26 +13,26 @@ excerpt: >
   <small>is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.</small>
 feature_row:
   - image_path: /assets/images/officers2014.jpeg
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "officers2014"
+    title: "SGSA Officers 2014-2015"
+    excerpt: "We facilitate interaction between graduate students and faculty members."
+    url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "About us"
   - image_path: /assets/images/officers2015.jpeg
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "officers2015"
+    title: "SGSA Officers 2015-2016"
+    excerpt: "We provide a forum in which students can learn about ongoing faculty research and present their own research."
+    url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "About us"
   - image_path: /assets/images/officers2016.jpeg
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "officers2016"
+    title: "SGSA Officers 2016-2017"
+    excerpt: "We encourage participation in academic events outside of the traditional classroom setting."
+    url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "About us"      
 ---
 
 {% include feature_row %}
