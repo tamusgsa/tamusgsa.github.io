@@ -1,5 +1,5 @@
 ---
-title: "[Upcoming] 2022-11-03 Stat Cafe - Dr. Jaiswal"
+title: "[Upcoming] 2022-11-03 Stat Cafe - Jian Yan"
 excerpt: "The history and some recent advances of distance-based and RKHS-based two-sample tests and some other tests"
 layout: single
 ---
