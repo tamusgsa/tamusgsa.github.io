@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: ""
+title: " "
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#ffffff"
   overlay_image: /assets/images/officers2022.JPG
 ---
 

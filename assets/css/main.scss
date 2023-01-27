@@ -7,3 +7,10 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__hero--overlay {
+  aspect-ratio: 5184 / 3456;
+  width: 95vw;
+  max-height: 95vh;
+  background-size: contain;
+}
