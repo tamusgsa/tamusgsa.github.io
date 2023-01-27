@@ -6,8 +6,16 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/officers2022.JPG
 excerpt: >
-  The Statistics Graduate Student Association, (SGSA),<br />
-  <small>is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.</small>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 ---
 
 ## About us
