@@ -23,7 +23,7 @@ layouts_gallery:
   - url: /assets/images/officers2019.jpeg
     image_path: /assets/images/officers2019.jpeg
     alt: "Officers: 2019-2020"
-last_modified_at: 2022-08-28T11:59:26-05:00
+last_modified_at: 2023-01-26T11:59:26-05:00
 toc: true
 ---
 
@@ -31,21 +31,9 @@ toc: true
 
 {% include gallery id="layouts_gallery" caption="TAMU SGSA officers from `2014-2015`, `2015-2016`, `2016-2017`, `2017-2018`, `2018-2019`, `2019-2020`." %}
 
-## SGSA Constitution
-
 ## Documents
 
 - [Fall 2016 consultant](/assets/files/fall2016consultant.pdf)
 - [Fall 2016 Tutoring List](/assets/files/fall2016tutor.pdf)
 - [Spring 2016 Tutoring List](/assets/files/spring2016tutor.pdf)
 - [Fall 2015 Tutoring List](/assets/files/fall2015tutor.pdf)
-
-## Links to
-
-### [Statistical Machine Learning Journal Club](http://wiki.stat.tamu.edu/index.php/Statistical_Machine_Learning_Journal_Club)
-
-### [Spatial Statistics Journal Club](http://wiki.stat.tamu.edu/index.php/Spatial_Statistics_Journal_Club)
-
-### [Stat Cafe](http://wiki.stat.tamu.edu/index.php/StatCafe)
-
-### [Exams link](https://www.stat.tamu.edu/academics/ms-and-phd-exams/)
