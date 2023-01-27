@@ -1,32 +1,11 @@
 ---
 layout: splash
-title: false
+title: ""
 permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/officers2022.JPG
-excerpt: >
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
 ---
 
 ## About us
