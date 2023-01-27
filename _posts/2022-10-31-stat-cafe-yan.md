@@ -2,6 +2,7 @@
 title: "2022-11-03 Stat Cafe - Jian Yan"
 excerpt: "The history and some recent advances of distance-based and RKHS-based two-sample tests and some other tests"
 layout: single
+classes: wide
 ---
 
 - Time: Monday 11/03 from 2:30 PM to 3:30 PM
