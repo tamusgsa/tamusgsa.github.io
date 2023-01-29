@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#ffffff"
-  overlay_image: /assets/images/officers2022_1280.jpeg
+  overlay_image: /assets/images/officers2022.JPG
 ---
 
 ## About us
