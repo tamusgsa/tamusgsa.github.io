@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-- Time: Monday 11/14 from 1:00 PM to 2:00 PM
+- Time: Friday 02/03 from 1:00 PM to 2:00 PM
 - Location: BLOC 503
 - We will be ordering lunch boxes from Firehouse subs. If you are planning to attend the talk, please fill out the [survey](https://urldefense.com/v3/__https://forms.gle/3eHCudTwNHA9UbZU8__;!!KwNVnqRv!DtBItYdOqraqSyX-pW_UOkPCf7CwYY7COr7lQ0OYrAnCra_RW8O6LwCCZTrq0qVge8AvjfPJCSAwvBIpB7U38w$) by Sunday night.
 - [Gallery](/StatCafe/2023-02-03-gallery/)
