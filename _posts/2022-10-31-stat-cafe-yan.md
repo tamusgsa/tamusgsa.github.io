@@ -8,7 +8,7 @@ classes: wide
 - Time: Monday 11/03 from 2:30 PM to 3:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
-- [Gallery](/stat-cafe-yan/)
+- [Gallery](/StatCafe/2022-11-03-gallery/)
 
 ### Topic
 

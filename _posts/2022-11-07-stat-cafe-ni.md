@@ -8,7 +8,7 @@ classes: wide
 - Time: Monday 11/07 from 11:30 AM to 12:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
-- [Gallery](/stat-cafe-ni/)
+- [Gallery](/StatCafe/2022-11-07-gallery/)
 
 ### Topic
 

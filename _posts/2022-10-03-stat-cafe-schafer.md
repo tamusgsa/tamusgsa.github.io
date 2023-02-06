@@ -8,7 +8,7 @@ classes: wide
 - Time: Monday 10/03 from 11:30 AM to 12:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
-- [Gallery](/stat-cafe-schafer/)
+- [Gallery](/StatCafe/2022-10-03-gallery/)
 
 ### Topic
 

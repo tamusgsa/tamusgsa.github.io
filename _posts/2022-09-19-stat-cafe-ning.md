@@ -8,7 +8,7 @@ classes: wide
 - Time: Monday 9/19 from 11:30 AM to 12:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
-- [Gallery](/stat-cafe-ning/)
+- [Gallery](/StatCafe/2022-09-19-gallery/)
 
 ### Topic
 
