@@ -1,5 +1,5 @@
 ---
-title: "[Upcoming] 2023-02-03 Stat Cafe - Dr. Valen Johnson"
+title: "2023-02-03 Stat Cafe - Dr. Valen Johnson"
 excerpt: "Bayes factor functions"
 layout: single
 classes: wide
