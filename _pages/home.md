@@ -18,7 +18,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 - VICE PRESIDENT - [Isaac Ray](mailto:null@stat.tamu.edu)
 - SECRETARY/SOCIAL CHAIR - [Asmita Roy](mailto:asmita@stat.tamu.edu)
 - TREASURER - [Jiangyuan Li](mailto:jiangyuanli@stat.tamu.edu)
-- IT OFFICER/WEBMASTER - [Anthony Li](mailto:anthony.li@stat.tamu.edu)
+- IT OFFICER/WEBMASTER - [Anthony Xingchi Li](mailto:anthony.li@stat.tamu.edu)
 - STATCAFE ORGANIZER - [Gozde Sert](mailto:gozdesert@stat.tamu.edu)
 - DEPARTMENT DELEGATE - [Rebecca Lee](mailto:llrebecca21@stat.tamu.edu)
 - DEPARTMENT DELEGATE - [Alexander Coulter](mailto:coultera@stat.tamu.edu)
