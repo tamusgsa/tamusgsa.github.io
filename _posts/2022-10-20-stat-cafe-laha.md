@@ -8,6 +8,7 @@ classes: wide
 - Time: Monday 10/20 from 2:30 PM to 3:30 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
+- [Gallery](/stat-cafe-laha/)
 
 ### Topic
 
