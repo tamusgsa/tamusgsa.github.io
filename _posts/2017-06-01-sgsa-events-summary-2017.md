@@ -8,4 +8,4 @@ classes: wide
   - Dr. Katzfuss gave a brown bag talk on his research interests. 
 - Research Talk with Dr. Spiegelman
   - Dr. Spiegelman gave a brown bad talk on his research interests.
-- Faculty Appreciation Barbecue. 
+- Faculty Appreciation Barbecue.
