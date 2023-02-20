@@ -1,5 +1,5 @@
 ---
-title: "[Upcoming] 2023-04-07 Stat Cafe - Dr. Snigdha Das"
+title: "[Upcoming] 2023-04-07 Stat Cafe - Snigdha Das"
 excerpt: "TBD"
 layout: single
 classes: wide
