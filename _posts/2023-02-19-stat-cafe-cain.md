@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-- Time: Friday 02/03 from 1:00 PM to 2:00 PM
+- Time: Friday 02/24 from 1:00 PM to 2:00 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
 

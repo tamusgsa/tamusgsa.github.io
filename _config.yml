@@ -299,3 +299,6 @@ collections:
   WelcomeBBQ:
     output: true
     permalink: /:collection/:path/
+  GameNight:
+    output: true
+    permalink: /:collection/:path/
