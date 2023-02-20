@@ -5,6 +5,8 @@ layout: single
 classes: wide
 ---
 
+![02172023-Coulter-1.jpg]({{ "/assets/images/stat_cafe/02172023-Coulter-1.jpg" | relative_url }})
+
 - Time: Friday 02/17 from 1:00 PM to 2:00 PM
 - Location: BLOC 503
 - Snacks and drinks will be provided
