@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#ffffff"
-  overlay_image: /assets/images/officers2022.JPG
+  overlay_image: /assets/images/sgsa-officers/officers2022.jpg
 ---
 
 ## About us

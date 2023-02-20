@@ -5,23 +5,23 @@ layout: single
 author_profile: true
 excerpt: "TAMU SGSA is a student association."
 layouts_gallery:
-  - url: /assets/images/officers2014.jpeg
-    image_path: /assets/images/officers2014.jpeg
+  - url: /assets/images/sgsa-officers/officers2014-1.jpeg
+    image_path: /assets/images/sgsa-officers/officers2014-1.jpeg
     alt: "Officers: 2014-2015"
-  - url: /assets/images/officers2015.jpeg
-    image_path: /assets/images/officers2015.jpeg
+  - url: /assets/images/sgsa-officers/officers2015.jpeg
+    image_path: /assets/images/sgsa-officers/officers2015.jpeg
     alt: "Officers: 2015-2016"
-  - url: /assets/images/officers2016.jpeg
-    image_path: /assets/images/officers2016.jpeg
+  - url: /assets/images/sgsa-officers/officers2016.jpeg
+    image_path: /assets/images/sgsa-officers/officers2016.jpeg
     alt: "Officers: 2016-2017"
-  - url: /assets/images/officers2017.jpeg
-    image_path: /assets/images/officers2017.jpeg
+  - url: /assets/images/sgsa-officers/officers2017.jpeg
+    image_path: /assets/images/sgsa-officers/officers2017.jpeg
     alt: "Officers: 2017-2018"
-  - url: /assets/images/officers2018.jpeg
-    image_path: /assets/images/officers2018.jpeg
+  - url: /assets/images/sgsa-officers/officers2018.jpeg
+    image_path: /assets/images/sgsa-officers/officers2018.jpeg
     alt: "Officers: 2018-2019"
-  - url: /assets/images/officers2019.jpeg
-    image_path: /assets/images/officers2019.jpeg
+  - url: /assets/images/sgsa-officers/officers2019.jpeg
+    image_path: /assets/images/sgsa-officers/officers2019.jpeg
     alt: "Officers: 2019-2020"
 last_modified_at: 2023-01-26T11:59:26-05:00
 toc: true
