@@ -1,5 +1,5 @@
 ---
-title: "[Upcoming] 2023-02-24 Stat Cafe - Dr. Meghan Cain from STATA"
+title: "2023-02-24 Stat Cafe - Dr. Meghan Cain from STATA"
 excerpt: "My experience pursuing a career in industry"
 layout: single
 classes: wide
