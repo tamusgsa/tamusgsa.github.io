@@ -1,5 +1,5 @@
 ---
-title: "[Upcoming] 2023-03-03 Stat Cafe - Dr. Rajarshi Guhaniyogi."
+title: "[Upcoming] 2023-03-03 Stat Cafe - Dr. Rajarshi Guhaniyogi"
 excerpt: "Bayesian Regressions with Tensors and Distributed Computation with Space-time Data"
 layout: single
 classes: wide
