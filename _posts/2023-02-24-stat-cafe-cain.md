@@ -8,6 +8,7 @@ classes: wide
 - Time: Friday 02/24 from 1:00 PM to 2:00 PM
 - Location: BLOC 503
 - We are ordering lunch boxes from Jason's Deli. Please complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfZJ713LUBAKpg773uxaOlTv_j35G_YBLcSm1YlNkxtfGTKew/viewform) by Thursday afternoon at 2 PM.
+- [Gallery](/StatCafe/2023-02-24-gallery/)
 
 ### Topic
 
