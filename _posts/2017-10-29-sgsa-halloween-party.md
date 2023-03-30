@@ -6,8 +6,7 @@ classes: wide
 ---
 
 - Date: 10/29/2017, Sunday
-​- Venue: Alex Asher's House
-
+- Venue: Alex Asher's House
 - Students gathered together for Halloween.
 - Pumpkin carving while eating snacks were parts of this event.
 - Students were encouraged to wear costumes.
