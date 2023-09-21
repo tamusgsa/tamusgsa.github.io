@@ -9,7 +9,7 @@ classes: wide
 - Location: BLOC 448
 - Pizza and drinks provided
 - [Presentation]({{ "/assets/files/stat_cafe/Ni_and_Bruce_Sept_20_2023/Ni_Bruce_slides.pdf" | relative_url }})
-
+- [Recording](https://youtu.be/GfaMtA9XvNs)
 
 ### Topic
 
