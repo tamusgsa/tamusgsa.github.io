@@ -1,5 +1,5 @@
 ---
-title: "2022-11-14 Stat Cafe - Dr. Jesus Arroyo Relion"
+title: "Stat Cafe - Dr. Jesus Arroyo Relion"
 excerpt: "Community detection in multilayer networks via spectral methods"
 layout: single
 classes: wide

@@ -1,5 +1,5 @@
 ---
-title: "2023-09-21 Workflow Workshop - Dr. Toryn Schafer"
+title: "Workflow Workshop - Dr. Toryn Schafer"
 excerpt: "Fellowship Applications"
 layout: single
 classes: wide

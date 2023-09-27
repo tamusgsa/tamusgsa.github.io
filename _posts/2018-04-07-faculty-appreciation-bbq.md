@@ -1,5 +1,5 @@
 ---
-title: "2018-04-07 - Faculty Appreciation BBQ"
+title: "Faculty Appreciation BBQ, 2018"
 excerpt: Faculty Appreciation Barbecue - 2018. A departmental event, organized by SGSA, to show appreciation for the faculties and the stuffs.
 layout: single
 classes: wide

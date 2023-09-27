@@ -1,5 +1,5 @@
 ---
-title: "2022-09-19 Stat Cafe - Dr. Ning Ning"
+title: "Stat Cafe - Dr. Ning Ning"
 excerpt: "High-dimensional Machine Learning and its Applications in Finance"
 layout: single
 classes: wide

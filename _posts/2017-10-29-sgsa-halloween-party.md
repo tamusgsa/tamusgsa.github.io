@@ -1,5 +1,5 @@
 ---
-title: "2017-10-29 - SGSA Halloween Party"
+title: "SGSA Halloween Party, 2017"
 excerpt: A student only event on Sunday, October 29, 2017.
 layout: single
 classes: wide

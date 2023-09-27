@@ -1,5 +1,5 @@
 ---
-title: "2023-03-24 Stat Cafe - Abhisek Chakraborty"
+title: "Stat Cafe - Abhisek Chakraborty"
 excerpt: "Robust probabilistic inference via a constrained transport metric"
 layout: single
 classes: wide

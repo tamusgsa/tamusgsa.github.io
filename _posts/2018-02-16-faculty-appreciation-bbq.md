@@ -1,5 +1,5 @@
 ---
-title: "2018-02-16 - Farewell for Prof. Julie Carroll"
+title: "Farewell for Prof. Julie Carroll"
 excerpt: Informal Farewell Ceremony for Prof. Julie Hagen Carroll.
 layout: single
 classes: wide

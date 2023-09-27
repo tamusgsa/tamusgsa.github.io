@@ -1,5 +1,5 @@
 ---
-title: "[RSVP] 2023-04-15 - Faculty Appreciation BBQ"
+title: "[RSVP] Faculty Appreciation BBQ, 4-15-2023"
 excerpt: Faculty Appreciation Barbecue - 2023. A departmental event, organized by SGSA, to show appreciation for the faculties and the stuffs.
 layout: single
 classes: wide

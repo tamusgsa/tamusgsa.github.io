@@ -1,5 +1,5 @@
 ---
-title: "2023-09-20 Stat Cafe - Dr. Yang Ni and Dr. Scott Bruce"
+title: "Stat Cafe - Dr. Yang Ni and Dr. Scott Bruce"
 excerpt: "Non-Gaussian Factor Model for Interpretable Ordinal Time Series Analysis"
 layout: single
 classes: wide

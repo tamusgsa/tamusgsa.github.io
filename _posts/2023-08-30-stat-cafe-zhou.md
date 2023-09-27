@@ -1,5 +1,5 @@
 ---
-title: "2023-08-30 Stat Cafe - Dr. Quan Zhou"
+title: "Stat Cafe - Dr. Quan Zhou"
 excerpt: "Towards More Efficient MCMC Sampling"
 layout: single
 classes: wide

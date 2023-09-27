@@ -1,5 +1,5 @@
 ---
-title: "2017-09-17 - SGSA BBQ Party"
+title: "SGSA BBQ Party, 2017"
 excerpt: Beginning of the year BBQ. A student only event. Sunday, September 17, 2017
 layout: single
 classes: wide

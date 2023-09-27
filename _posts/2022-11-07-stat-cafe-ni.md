@@ -1,5 +1,5 @@
 ---
-title: "2022-11-07 Stat Cafe - Dr. Yang Ni"
+title: "Stat Cafe - Dr. Yang Ni"
 excerpt: "Causal Graphical Models for Discovering Gene Regulations"
 layout: single
 classes: wide

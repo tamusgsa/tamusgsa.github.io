@@ -1,5 +1,5 @@
 ---
-title: "2023-09-13 Stat Cafe - Dr. Suhasini Subba Rao"
+title: "Stat Cafe - Dr. Suhasini Subba Rao"
 excerpt: "Graphical Models for Multivariate Time Series"
 layout: single
 classes: wide

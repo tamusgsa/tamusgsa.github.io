@@ -1,6 +1,6 @@
 ---
-title: "2023 - Faculty Appreciation BBQ"
-excerpt: Faculty Appreciation Barbecue - 2023. A departmental event, organized by SGSA, to show appreciation for the faculties and the stuffs.
+title: "Faculty Appreciation BBQ, 2023"
+excerpt: Faculty Appreciation Barbecue - 2023. A departmental event, organized by SGSA, to show appreciation for the faculty and staff.
 layout: single
 classes: wide
 ---

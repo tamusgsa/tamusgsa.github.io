@@ -1,5 +1,5 @@
 ---
-title: "2023-02-10 Stat Cafe - Hyunwoong Chang"
+title: "Stat Cafe - Hyunwoong Chang"
 excerpt: "Convergence of Markov chain Monte Carlo algorithms in model selection problems"
 layout: single
 classes: wide

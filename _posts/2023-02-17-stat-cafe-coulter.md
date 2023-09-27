@@ -1,5 +1,5 @@
 ---
-title: "2023-02-17 Stat Cafe - Alexander Coulter"
+title: "Stat Cafe - Alexander Coulter"
 excerpt: "Distributional Regression for CGM Data: Variable Selection Some Time Today, Please"
 layout: single
 classes: wide

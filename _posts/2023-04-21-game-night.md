@@ -1,5 +1,5 @@
 ---
-title: "2023-04-21 Game Night"
+title: "Game Night, 4-21-2023"
 layout: single
 classes: wide
 ---

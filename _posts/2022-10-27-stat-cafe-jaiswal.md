@@ -1,5 +1,5 @@
 ---
-title: "2022-10-27 Stat Cafe - Dr. Jaiswal"
+title: "Stat Cafe - Dr. Jaiswal"
 excerpt: "Thompson Sampling with Fractional Posterior: Formulation and Regret Analysis"
 layout: single
 classes: wide

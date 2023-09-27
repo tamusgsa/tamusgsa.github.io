@@ -1,5 +1,5 @@
 ---
-title: "2023-03-31 Stat Cafe - Dr. Scott Bruce"
+title: "Stat Cafe - Dr. Scott Bruce"
 excerpt: "Interpretable Classification of Categorical Time Series and More"
 layout: single
 classes: wide

@@ -1,5 +1,5 @@
 ---
-title: "2017 Spring - SGSA Events Summary"
+title: "SGSA Events Summary, Spring 2017"
 layout: single
 classes: wide
 ---

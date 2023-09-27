@@ -1,5 +1,5 @@
 ---
-title: "2023-04-14 Stat Cafe - Snigdha Das"
+title: "Stat Cafe - Snigdha Das"
 excerpt: "Blocked Gibbs sampler for hierarchical Dirichlet processes"
 layout: single
 classes: wide

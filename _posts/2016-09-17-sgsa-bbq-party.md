@@ -1,5 +1,5 @@
 ---
-title: "2016-09-17 - SGSA BBQ Party"
+title: "SGSA BBQ Party, 2016"
 excerpt: ​Alex Asher's House
 layout: single
 classes: wide
