@@ -14,14 +14,25 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### 2023 - 2024 SGSA Officers
 
-- ​President - [Isaac Ray](mailto:null@stat.tamu.edu)
-- Vice President - [Gozde Sert](mailto:gozdesert@stat.tamu.edu)
-- Secretary - [Arhit Chakrabarti](mailto:arhit.chakrabarti@stat.tamu.edu)
-- Treasurer - [Daniel Cirkovic](mailto:cirkovd@stat.tamu.edu)
-- Social Chair - [Snigdha Das](mailto:snigdha@stat.tamu.edu)
-- Stat Cafe Organizer - [Valeriya Rogovchenko](mailto:varogovchenko@tamu.edu)
-- Workshop Organizer - [Niladri Kal](mailto:niladrik@tamu.edu)
-- Masters Student Representative - [Valerie Espinosa](mailto:vne@tamu.edu)
-- Web Designer - [Jose Rodriguez-Acosta](mailto:jeroda7105@tamu.edu)
-- Department Delegate - [Rebecca Lee](mailto:llrebecca21@stat.tamu.edu)
-- Department Delegate - [Alexander Coulter](mailto:coultera@stat.tamu.edu)
+<img src="assets/images/sgsa-officers/individual_officers_2023/isaac_portrait.JPG" alt="Isaac" width="1"/> <br>
+​President - [Isaac Ray](mailto:null@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/gozde_portrait.JPG" alt="Gozde" width="190"/> <br>
+Vice President - [Gozde Sert](mailto:gozdesert@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/arhit_portrait.JPG" alt="Arhit" width="190"/> <br>
+Secretary - [Arhit Chakrabarti](mailto:arhit.chakrabarti@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/daniel_portrait.JPG" alt="Daniel" width="190"/> <br>
+Treasurer - [Daniel Cirkovic](mailto:cirkovd@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/snigdha_portrait.JPG" alt="Snigdha" width="190"/> <br>
+Social Chair - [Snigdha Das](mailto:snigdha@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/Valeriya_portrait.JPG" alt="Valeriya" width="190"/> <br>
+Stat Cafe Organizer - [Valeriya Rogovchenko](mailto:varogovchenko@tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/niladri_portrait.JPG" alt="Niladri" width="190"/> <br>
+Workshop Organizer - [Niladri Kal](mailto:niladrik@tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/jose_portrait.JPG" alt="Jose" width="190"/> <br>
+Web Designer - [Jose Rodriguez-Acosta](mailto:jeroda7105@tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/rebecca_portrait.JPG" alt="Rebecca" width="190"/> <br>
+Department Delegate - [Rebecca Lee](mailto:llrebecca21@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/alexander_portrait.JPG" alt="Alexander" width="190"/> <br>
+Department Delegate - [Alexander Coulter](mailto:coultera@stat.tamu.edu) <br> <br>
+<img src="assets/images/sgsa-officers/individual_officers_2023/valerie_portrait.png" alt="Valerie" width="190"/> <br>
+Masters Student Representative - [Valerie Espinosa](mailto:vne@tamu.edu) <br>
