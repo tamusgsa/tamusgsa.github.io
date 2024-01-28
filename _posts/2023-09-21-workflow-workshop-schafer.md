@@ -1,8 +1,10 @@
 ---
-title: "Workflow Workshop - Dr. Toryn Schafer"
+title: "2023-09-21 Workflow Workshop - Dr. Toryn Schafer"
 excerpt: "Fellowship Applications"
 layout: single
 classes: wide
+category:
+  - Workflow Workshop
 layouts_gallery:
   - url: /assets/images/workflow_workshops/Schafer_Sept_21_2023/schafer_flyer.jpg
     image_path: /assets/images/workflow_workshops/Schafer_Sept_21_2023/schafer_flyer.jpg
@@ -50,5 +52,4 @@ Dr. Schafer will lead the session with a primary focus on the NSF Graduate Resea
 
 
 {% include gallery id="layouts_gallery" %}
-
 

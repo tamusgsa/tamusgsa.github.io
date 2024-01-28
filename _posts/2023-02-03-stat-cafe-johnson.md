@@ -1,8 +1,10 @@
 ---
-title: "Stat Cafe - Dr. Valen Johnson"
+title: "2023-02-03 Stat Cafe - Dr. Valen Johnson"
 excerpt: "Bayes factor functions"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Friday 02/03 from 1:00 PM to 2:00 PM

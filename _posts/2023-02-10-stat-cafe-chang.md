@@ -1,8 +1,10 @@
 ---
-title: "Stat Cafe - Hyunwoong Chang"
+title: "2023-02-10 Stat Cafe - Hyunwoong Chang"
 excerpt: "Convergence of Markov chain Monte Carlo algorithms in model selection problems"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Friday 02/10 from 1:00 PM to 2:00 PM

@@ -1,7 +1,9 @@
 ---
-title: "Game Night 2-10-23"
+title: "2023-02-10 Game Night"
 layout: single
 classes: wide
+category:
+  - Game Night
 ---
 
 - Game night's starting in Fisher Bowl, stop by and grab some pizza :)

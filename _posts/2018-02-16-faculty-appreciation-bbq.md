@@ -1,8 +1,10 @@
 ---
-title: "Farewell for Prof. Julie Carroll"
+title: "2018-02-16 - Farewell for Prof. Julie Carroll"
 excerpt: Informal Farewell Ceremony for Prof. Julie Hagen Carroll.
 layout: single
 classes: wide
+category:
+  - BBQ
 ---
 
 - Friday, February 16, 2018.

@@ -1,8 +1,10 @@
 ---
-title: "Stat Cafe - Dr. Rajarshi Guhaniyogi"
+title: "2023-03-03 Stat Cafe - Dr. Rajarshi Guhaniyogi"
 excerpt: "Bayesian Regressions with Tensors and Distributed Computation with Space-time Data"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Friday 03/03 from 1:00 PM to 2:00 PM

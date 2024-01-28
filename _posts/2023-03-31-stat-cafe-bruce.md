@@ -1,8 +1,10 @@
 ---
-title: "Stat Cafe - Dr. Scott Bruce"
+title: "2023-03-31 Stat Cafe - Dr. Scott Bruce"
 excerpt: "Interpretable Classification of Categorical Time Series and More"
 layout: single
 classes: wide
+category:
+  - Stat Cafe
 ---
 
 - Time: Friday 03/31 from 1:00 PM to 2:00 PM

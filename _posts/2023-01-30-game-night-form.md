@@ -1,7 +1,9 @@
 ---
-title: "Game Night Form, 1-30-23"
+title: "2023-01-30 Game Night Form"
 layout: single
 classes: wide
+category:
+  - Game Night
 ---
 
 Hi everyone,

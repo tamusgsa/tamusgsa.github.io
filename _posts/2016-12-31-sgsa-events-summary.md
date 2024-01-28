@@ -1,7 +1,9 @@
 ---
-title: "SGSA Events Summary, Fall 2016"
+title: "2016 Fall - SGSA Events Summary"
 layout: single
 classes: wide
+category:
+  - Other
 ---
 
 - [New Students/Beginning of the year BBQ](/sgsa-bbq-party-2016/)
