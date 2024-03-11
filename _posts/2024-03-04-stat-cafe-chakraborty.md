@@ -26,6 +26,10 @@ layouts_gallery:
     alt: "IMG_0634.jpg"
 ---
 
+<img src="https://jeroda7105.github.io/tamusgsa.github.io/assets/images/stat_cafe/Chakraborty_Mar_04_2024/IMG_0523.jpg" alt="Header" width="315" style="float: right;"/> 
+
+
+
 
 ### Probabilistic approaches for fair clustering
 
