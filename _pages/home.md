@@ -16,5 +16,5 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 - [Stat Cafe - Shuangjie Zhang, 9/11/2024, 11:30am-12:30pm at BLOC 411](https://www.google.com/calendar/event?eid=NjZlNXQxZmQyZnJwa3R0OTlvYmQ2aGRsNGUgY19jNmYyNWM1YWJjMjcwODEwNWY0ZWRjZjJmMjMwOWU0ZjAyODMyMDAzYTk2MDQwNzM2NTdhZDlhNjY3YThmZWUzQGc&ctz=America/Chicago) 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io \assets\images\stat_cafe\Zhang_Sept_11_2024\StatCafeTalk_ShuangjieZhang.png" alt="flyer" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io\assets\images\stat_cafe\Zhang_Sept_11_2024\StatCafeTalk_ShuangjieZhang.png" alt="flyer" width="200"/> <br>
 
