@@ -14,7 +14,7 @@ layouts_gallery:
     alt: "IMG_1222.jpg"
 ---
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1221.jpg" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1221.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 ### Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data
 
