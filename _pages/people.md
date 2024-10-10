@@ -1,16 +1,25 @@
 ---
 permalink: /people/
-title: "People"
-layout: default
+title: "2024 - 2025 SGSA Officers"
+layout: single
 author_profile: true
 classes: wide
 ---
 
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+h1{font-size:64px;}
+h2{font-size:48px;}
+h3{font-size:40px;}
+h4{font-size:30px;}
+h5{font-size:26px;}
+h6 {font-size: 24px;}
+p {font-size: 22px;}
+</style>
 
-## 2024 - 2025 SGSA Officers
+<!-- ## 2024 - 2025 SGSA Officers -->
 
-<body style="margin:50px;padding:0">
-
+<div>
 <p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
 
 <p> Vice President - Rebecca Lee (llrebecca21@stat.tamu.edu) </p> 
@@ -34,4 +43,4 @@ classes: wide
 <p> Masters Student Representative - Brian Park (brian1270@tamu.edu) </p>
 
 <p> Social Representative - Robert Lee (robertdylee@tamu.edu) </p>
-
+</div>
