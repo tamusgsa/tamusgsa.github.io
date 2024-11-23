@@ -29,9 +29,9 @@ layouts_gallery:
     alt: "IMG_5649.JPG"  
 ---
 
-<!--
+
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/workflow_workshops/Bruce_Nov_14_2024/IMG_5651.JPG?raw=true" alt="Header" width="315" style="float: right;"> 
--->
+
 
 
 ### Arseven Statistics Department Computing Cluster 
