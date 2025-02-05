@@ -6,17 +6,55 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1216.jpg
-    image_path: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1216.jpg
-    alt: "IMG_1216.jpg"
-  - url: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1222.jpg
-    image_path: /assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1222.jpg
-    alt: "IMG_1222.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1973.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1973.jpg
+    alt: "IMG_1973.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1974.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1974.jpg
+    alt: "IMG_1974.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1975.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1975.jpg
+    alt: "IMG_1975.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1976.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1976.jpg
+    alt: "IMG_1976.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1977.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1977.jpg
+    alt: "IMG_1977.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1980.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1980.jpg
+    alt: "IMG_1980.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1981.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1981.jpg
+    alt: "IMG_1981.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1982.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1982.jpg
+    alt: "IMG_1982.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1984.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1984.jpg
+    alt: "IMG_1984.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1985.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1985.jpg
+    alt: "IMG_1985.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1986.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1986.jpg
+    alt: "IMG_1986.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1987.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1987.jpg
+    alt: "IMG_1987.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1988.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1988.jpg
+    alt: "IMG_1988.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1990.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1990.jpg
+    alt: "IMG_1990.jpg"
+  - url: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1991.jpg
+    image_path: /assets/images/stat_cafe/Park_Feb_03_2025/IMG_1991.jpg
+    alt: "IMG_1991.jpg"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Zhang_Sept_11_2024/IMG_1221.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Park_Feb_03_2025/IMG_1989.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 ###  Robust Estimation in metric spaces: Achieving Exponential Concentration with a Frechet Median
 
@@ -33,9 +71,9 @@ There is growing interest in developing statistical estimators that achieve expo
 
 <!-- ### Recording -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
