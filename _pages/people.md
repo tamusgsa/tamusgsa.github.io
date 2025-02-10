@@ -26,20 +26,20 @@ p {font-size: 22px;}
 ### 2024 - 2025 SGSA Officers
 
 <div>
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/gozde_portrait.JPG" alt="Gozde" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/gozde_portrait.JPG?raw=true" alt="Gozde" width="200"/> <br>
 <p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/rebecca_portrait.JPG" alt="Rebecca" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/rebecca_portrait.JPG?raw=true" alt="Rebecca" width="200"/> <br>
 <p> Vice President - Rebecca Lee (llrebecca21@stat.tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/minjee_portrait.JPG" alt="Minjee" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/minjee_portrait.JPG?raw=true" alt="Minjee" width="200"/> <br>
 <p> Secretary - Minjee Kim (minjeekim0804@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/alexander_portrait.JPG" alt="Alexander" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/alexander_portrait.JPG?raw=true" alt="Alexander" width="200"/> <br>
 <p> Treasurer - Alexander Coul
 ter (coultera@stat.tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/snigdha_portrait.JPG" alt="Snigdha" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/snigdha_portrait.JPG?raw=true" alt="Snigdha" width="200"/> <br>
 <p> Social Chair - Snigdha Das (snigdha@stat.tamu.edu) </p> 
 
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/jiongran_portrait.jpg" alt="Jiongran" width="200"/> <br>
