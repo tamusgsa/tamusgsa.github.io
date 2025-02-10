@@ -23,7 +23,7 @@ p {font-size: 22px;}
 
 <br>
 
-## 2024 - 2025 SGSA Officers
+### 2024 - 2025 SGSA Officers
 
 <div>
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/gozde_portrait.JPG" alt="Gozde" width="200"/> <br>
