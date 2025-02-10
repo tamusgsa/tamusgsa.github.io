@@ -20,11 +20,6 @@ h6 {font-size: 24px;}
 p {font-size: 22px;}
 </style>
 
-<!-->
-<div style="display:table-cell; vertical-align:middle; text-align:center">
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/officers2024temp.JPG" alt="group" width="1000"/> 
-</div>
-<!/-->
 
 <br>
 
