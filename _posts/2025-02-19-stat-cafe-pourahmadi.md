@@ -67,8 +67,8 @@ Finding an unconstrained and statistically interpretable reparameterization of a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjR7OlZPy2I?si=fbJmXI60nApV2h8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery (Photos taken by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
