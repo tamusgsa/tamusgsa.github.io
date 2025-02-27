@@ -36,7 +36,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Upcoming Events
 
-- [2/24/25: Stat Cafe - Mohsen Pourahmadi](<https://tamusgsa.github.io/stat%20cafe/2025/02/19/stat-cafe-pourahmadi/>)
+- [3/3/25: Stat Cafe - Isaac Ray](<https://tamusgsa.github.io/stat%20cafe/2025/02/26/stat-cafe-ray/>)
 
 <!--
 - [SGSA Game Night, 9/27/2024, 5:00pm-7:00pm at the Fisher Bowl](https://urldefense.com/v3/__https://forms.gle/Mp7yF6DTNeZJavoS7__;!!KwNVnqRv!BaaEuGlheW4VZxx5D5aDXPnYPdYYhvUc7CfJdL7G1uZhgiX-ddkLIPNvGQ0iM9IO2StudWWbKCG5LnmdaMLkFe2gij2_hxU$) 
