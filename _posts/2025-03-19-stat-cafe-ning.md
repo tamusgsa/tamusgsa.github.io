@@ -63,8 +63,8 @@ Understanding and controlling large language models (LLMs) remains a fundamental
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jEcWYSiLkQU?si=R-NyovAX466xlHP_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!-- 
+
 ### Gallery (Photos by Samantha Williams)
 
 {% include gallery id="layouts_gallery" %}
--->
+
