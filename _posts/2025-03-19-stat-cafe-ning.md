@@ -38,9 +38,9 @@ layouts_gallery:
     alt: "IMG_2160.JPG"
 ---
 
-<!-- 
+
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Ning_Mar_24_2025/IMG_2158.JPG?raw=true" alt="Header" width="315" style="float: right;"/> 
--->
+
 
 ### Scalable Bayesian Inference for Large Language Model Analysis
 
