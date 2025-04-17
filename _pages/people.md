@@ -50,7 +50,7 @@ p {font-size: 22px;}
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/jose_portrait.JPG?raw=true" alt="Jose" width="200"/> <br>
 <p> Web Designer - Jose Rodriguez-Acosta (jeroda7105@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/jacob_portrait.jpg?raw=true" alt="Jacob" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/linkedin_andros.jpg?raw=true" alt="Jacob" width="200"/> <br>
 <p> Department Delegate - Jacob Andros (androsrj@tamu.edu) </p> 
 
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/eric_portrait.JPG?raw=true" alt="Eric" width="200"/> <br>
