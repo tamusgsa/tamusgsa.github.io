@@ -32,9 +32,11 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 - [Slack Channel](<https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-2yw4ujwyp-LkfgZFVwYxsFIOtR8iYgog>)
 
-- [Discord Channel](<https://discord.gg/SHCHzprj>)
+- [Discord Channel](<https://discord.gg/UVwBFv5s>)
 
 ### Upcoming Events
+
+Check back to see what's in store!
 
 <!--
 - [4/14/25: Stat Cafe - Rebecca Lee](<https://tamusgsa.github.io/stat%20cafe/2025/04/09/stat-cafe-lee/>)
