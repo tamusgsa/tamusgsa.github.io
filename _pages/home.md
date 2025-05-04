@@ -36,7 +36,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Upcoming Events
 
-- [4/29/25: End of Semester Party](<https://tamusgsa.github.io/other/2025/04/23/end-of-semester-party/>)
+- [4/29/25: End of Semester Party](<https://tamusgsa.github.io/game%20night/2025/04/23/end-of-semester-party/>)
 
 
 <!--
