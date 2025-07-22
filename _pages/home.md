@@ -30,9 +30,9 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Socials
 
-- [Slack Channel](<https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-2yw4ujwyp-LkfgZFVwYxsFIOtR8iYgog>)
+- [Slack Channel](<https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-39s13cvue-nefuDnVtWKMj3kpJ69u8Lg>)
 
-- [Discord Channel](<https://discord.gg/UVwBFv5s>)
+- [Discord Channel](<https://discord.gg/Yn8YcvjQ>)
 
 ### Upcoming Events
 
