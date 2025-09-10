@@ -1,5 +1,5 @@
 ---
-title: "Workflow Workshop - Dr. Toryn Schafer"
+title: "Workflow Workshop: Fellowship Applications - Dr. Toryn Schafer"
 excerpt: "Fellowship Applications"
 layout: single
 classes: wide
@@ -17,14 +17,21 @@ category:
 - Time: Wednesday 9/10/2025 from 11:30 AM to 12:30 PM 
 - Location: BLOC 448
 
+### Resources
+
+- [2025 NSF GRFP Webpage](<https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program>)
+
+- [Alex Lang Webpage: Statements from Previously Funded Applications](<https://www.alexhunterlang.com/nsf-fellowship>)
 
 
-### Description
-The Statistics Graduate Student Association (SGSA) is hosting our first Workflow Workshop session of the year. This session is on Fellowship Applications and will take place on Wednesday, September 10th (11:30 am - 12:30 pm) in BLOC 448. 
+### Presentations 
 
-This event is open to Undergraduates, 3+2 program students, and first- and second- year PhD students who are U.S. citizens or permanent residents. We especially encourage undergraduates to attend, as they will have multiple opportunities to apply for the NSF Graduate Research Fellowship. 
+<iframe src="https://drive.google.com/file/d/1gg4RG8AZG-IYl0a0tFPfUXdtAIclwh4Q/preview" width="640" height="480" allow="autoplay"></iframe>
 
-To prepare, please review the eligibility requirements and bring any questions you may have. Details can be found here: [NSF GRFP Eligibility FAQ](<https://urldefense.com/v3/__https://www.nsf.gov/funding/information/faq-graduate-research-fellowship-program-grfp/nsf23-154*question-2__;Iw!!KwNVnqRv!GGK3aEic1nV4yl_ypea_fQMzDEeaR4iQXF7UENOXo0bf6l2_t4aURTja2Uii7sgGBugi2eI6xLCC0SVY4jOXxArDc3M$>).
+
+<iframe src="https://drive.google.com/file/d/1NRn8Hhfiz8cRcyrUkj3MF5iwE8X5rSme/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 
 
 <!--
