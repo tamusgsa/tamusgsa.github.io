@@ -36,9 +36,6 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Upcoming Events
 
-
-- [9/10/25: Workflow Workshop: Fellowship Applications - Dr. Toryn Schafer](<https://tamusgsa.github.io/workflow%20workshop/2025/09/03/workflow-workshop-schafer/>)
-
 - [9/16/25: Stat Cafe - Dr. Jade Wang](<https://tamusgsa.github.io/stat%20cafe/2025/09/09/stat-cafe-wang/>)
 
 <!--
