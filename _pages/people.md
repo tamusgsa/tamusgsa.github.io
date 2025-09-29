@@ -6,10 +6,12 @@ hidden: true
 classes: wide
 header:
   overlay_color: "#ffffff"
-  overlay_image: /assets/images/sgsa-officers/officers2024temp.JPG
+  overlay_image: /assets/images/sgsa-officers/officers2025.jpg
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
 <style>
 h1{font-size:64px;}
 h2{font-size:48px;}
@@ -20,45 +22,52 @@ h6 {font-size: 24px;}
 p {font-size: 22px;}
 </style>
 
+<!-- ## 2024 - 2025 SGSA Officers 
+
+<div style="display:table-cell; vertical-align:middle; text-align:center">
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/officers2024temp.JPG" alt="group" width="1000"/> 
+</div>
+-->
 
 <br>
 
-### 2024 - 2025 SGSA Officers
+### 2025 - 2026 SGSA Officers
 
 <div>
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/gozde_portrait.JPG?raw=true" alt="Gozde" width="200"/> <br>
-<p> President - Gozde Sert (gozdesert@stat.tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/rebecca_portrait.JPG" alt="Rebecca" width="200"/> <br>
+<p> President - Rebecca Lee (llrebecca21@stat.tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/rebecca_portrait.JPG?raw=true" alt="Rebecca" width="200"/> <br>
-<p> Vice President - Rebecca Lee (llrebecca21@stat.tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/Michael_headshot.jpg" alt="Michael" width="200"/> <br>
+<p> Vice President - Michael Price (mprice@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/minjee_portrait.JPG?raw=true" alt="Minjee" width="200"/> <br>
-<p> Secretary - Minjee Kim (minjeekim0804@tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/raymond_portrait.jpg" alt="Raymond" width="200"/> <br>
+<p> Secretary - Raymond Hinton (rhinton@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/alexander_portrait.JPG?raw=true" alt="Alexander" width="200"/> <br>
-<p> Treasurer - Alexander Coulter (coultera@stat.tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/carrie_portrait.jpg" alt="Carrie" width="200"/> <br>
+<p> Treasurer - Carrie Lei (jlei@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/snigdha_portrait.JPG?raw=true?raw=true" alt="Snigdha" width="200"/> <br>
-<p> Social Chair - Snigdha Das (snigdha@stat.tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/zachary_portrait.jpg" alt="Zachary" width="200"/> <br>
+<p> Social Chair - Zachary Mackin (zachmackin@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/jiongran_portrait.jpg?raw=true" alt="Jiongran" width="200"/> <br>
-<p> Stat Cafe Organizer - Jiongran Wang (jw770@tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/alexander_portrait.JPG" alt="Alexander" width="200"/> <br>
+<p> Stat Cafe Organizer - Alexander Coulter (coultera@stat.tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/somjit_portrait.jpg?raw=true" alt="Somjit" width="200"/> <br>
-<p> Workshop Organizer - Somjit Roy (sroy_123@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/jose_portrait.JPG?raw=true" alt="Jose" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/minjee_portrait.JPG" alt="Minjee" width="200"/> <br>
+<p> Workflow Workshop Organizer - Minjee Kim (minjeekim0804@tamu.edu) </p> 
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/jose_portrait.jpg" alt="Jose" width="200"/> <br>
 <p> Web Designer - Jose Rodriguez-Acosta (jeroda7105@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/linkedin_andros.jpg?raw=true" alt="Jacob" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/linkedin_andros.jpg" alt="Jacob" width="200"/> <br>
 <p> Department Delegate - Jacob Andros (androsrj@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/eric_portrait.JPG?raw=true" alt="Eric" width="200"/> <br>
-<p> Department Delegate - Eric Gao (eric2018@tamu.edu) </p> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/brigham_portrait.jpg" alt="Brigham" width="200"/> <br>
+<p> Department Delegate - Brigham Halverson (brighalvy@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/brian_portrait.png?raw=true" alt="Brian" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/brian_portrait.png" alt="Brian" width="200"/> <br>
 <p> Master's Student Coordinator - Brian Park (brian1270@tamu.edu) </p>
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2024/robert_portrait.JPG?raw=true" alt="Robert" width="200"/> <br>
-<p> Social Media Manager - Robert Lee (robertdylee@tamu.edu) </p>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/assets/images/sgsa-officers/individual_officers_2025/radhika_portrait.jpg" alt="Radhika" width="200"/> <br>
+<p> Social Media Manager - Radhika Kulkarni (rrkulkarni@stat.tamu.edu) </p>
 </div>
