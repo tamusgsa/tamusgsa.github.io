@@ -43,7 +43,7 @@ p {font-size: 22px;}
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/raymond_portrait.jpg?raw=true" alt="Raymond" width="200"/> <br>
 <p> Secretary - Raymond Hinton (rhinton@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/carrie_portrait.jpg?raw=true" alt="Carrie" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/Carrie_Headshot.JPG?raw=true" alt="Carrie" width="200"/> <br>
 <p> Treasurer - Carrie Lei (jlei@tamu.edu) </p> 
 
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/zachary_portrait.jpg?raw=true" alt="Zachary" width="200"/> <br>
