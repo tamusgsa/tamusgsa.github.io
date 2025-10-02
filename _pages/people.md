@@ -68,6 +68,6 @@ p {font-size: 22px;}
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/brian_portrait.png?raw=true" alt="Brian" width="200"/> <br>
 <p> Master's Student Coordinator - Brian Park (brian1270@tamu.edu) </p>
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/radhika_portrait.jpg?raw=true" alt="Radhika" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/Radhika_Headshot.JPG?raw=true" alt="Radhika" width="200"/> <br>
 <p> Social Media Manager - Radhika Kulkarni (rrkulkarni@stat.tamu.edu) </p>
 </div>
