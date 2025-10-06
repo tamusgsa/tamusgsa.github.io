@@ -62,7 +62,7 @@ p {font-size: 22px;}
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/linkedin_andros.jpg?raw=true" alt="Jacob" width="200"/> <br>
 <p> Department Delegate - Jacob Andros (androsrj@tamu.edu) </p> 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/brigham_portrait.jpg?raw=true" alt="Brigham" width="200"/> <br>
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/Brigham_headshot.jpg?raw=true" alt="Brigham" width="200"/> <br>
 <p> Department Delegate - Brigham Halverson (brighalvy@tamu.edu) </p> 
 
 <img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/sgsa-officers/individual_officers_2025/brian_portrait.png?raw=true" alt="Brian" width="200"/> <br>
