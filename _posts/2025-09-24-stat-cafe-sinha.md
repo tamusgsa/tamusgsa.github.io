@@ -15,7 +15,7 @@ layouts_gallery:
 ---
 
 
-<img src="https://github.com/jeroda7105/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sinha_Sept_30_2025/20250930_112253.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Sinha_Sept_30_2025/20250930_112253.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 
 
