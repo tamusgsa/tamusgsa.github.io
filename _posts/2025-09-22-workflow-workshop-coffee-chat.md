@@ -14,6 +14,7 @@ layouts_gallery:
     alt: "IMG_5841.jpg"
   - url: /assets/images/workflow_workshops/Coffee_Chat_10_02_2025/IMG_5842.jpg
     image_path: /assets/images/workflow_workshops/Coffee_Chat_10_02_2025/IMG_5842.jpg
+    alt: "IMG_5842.jpg"
   - url: /assets/images/workflow_workshops/Coffee_Chat_10_02_2025/IMG_5843.jpg
     image_path: /assets/images/workflow_workshops/Coffee_Chat_10_02_2025/IMG_5843.jpg
     alt: "IMG_5843.jpg"
