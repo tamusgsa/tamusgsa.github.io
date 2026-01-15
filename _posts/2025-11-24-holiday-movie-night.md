@@ -28,7 +28,7 @@ layouts_gallery:
     alt: "IMG_6033.jpg"
 ---
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/master/assets/images/movie_night/movie_night_Dec25/IMG_6035.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/movie_night/movie_night_Dec25/IMG_6035.jpg?raw=true" alt="Header" width="315" style="float: right;"/> 
 
 ### Holiday Movie Night
 SGSA is excited to announce our very first Holiday Movie Night that will be happening from 4-6 pm on Friday, December 5th in BLOC 457!
