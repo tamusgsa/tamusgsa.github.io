@@ -10,6 +10,8 @@ classes: wide
 <style>
 h6 {font-size: 24px;}
 p {font-size: 22px;}
+th {font-size: 15px;}
+td {font-size: 15px;}
 </style>
 
 
