@@ -8,8 +8,6 @@ classes: wide
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-h6 {font-size: 24px;}
-p {font-size: 22px;}
 th {font-size: 15px;}
 td {font-size: 15px;}
 </style>
