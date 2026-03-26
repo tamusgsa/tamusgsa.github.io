@@ -36,7 +36,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Upcoming Events
 
-- [Stat Cafe - Dr. Yeseul Jeon: Wednesday, 3/25/2026 from 11:30AM to 1:00PM in BLOC 503](<https://tamusgsa.github.io/stat%20cafe/2026/03/19/stat-cafe-jeon/>)
+- [Stat Cafe - Chen Yang: Wednesday, 4/1/2026 from 11:30AM to 1:00PM in BLOC 503](<https://tamusgsa.github.io/stat%20cafe/2026/03/26/stat-cafe-yang/>)
 
 
 
