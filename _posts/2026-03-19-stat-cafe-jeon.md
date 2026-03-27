@@ -8,7 +8,7 @@ category:
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Jeon_Mar_25_2026/20260325_122223.jpg?raw=true" alt="Header" width="250" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Jeon_Mar_25_2026/20260325_122223.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
 
 
 ### Uncertainty-Aware Neural Multivariate Geostatistics
