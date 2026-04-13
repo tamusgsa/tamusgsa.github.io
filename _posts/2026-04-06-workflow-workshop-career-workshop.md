@@ -7,13 +7,16 @@ category:
 ---
 
 
+
+### Workshop Recording
+<iframe src="https://drive.google.com/file/d/1C7_DWEABf1rgr8mN4OSt2Sw_d55edSeG/preview" width="640" height="480"
+allow="fullscreen"
+allowfullscreen="true" 
+webkitallowfullscreen="true" 
+mozallowfullscreen="true"></iframe>
+
 ### SGSA Career Workshop
 - Thursday, 4/9/2026 at 5:00 PM on Zoom
-
-
-
-[Workshop Zoom Link](<https://tamu.zoom.us/j/94458188800>)
-
 
 We've invited alumni and current students working across academia, pharma, finance, and AI/ML - based on your survey responses. 
 
@@ -37,5 +40,5 @@ Connor Brubaker - GSK
 Rebecca Lee 
 Jacob Andros 
 
-Similar to the Internship workshop held in the Fall semester, the last 10 minutes will be breakout rooms by industry so you can speak directly with panelists. 
+
 
