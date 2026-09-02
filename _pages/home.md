@@ -30,16 +30,13 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Socials
 
-- [Slack Channel](<https://join.slack.com/t/tamustatistic-fdy2267/shared_invite/zt-3noiagg1t-yRs9fgdVCpx9HZrLqcxNkw>)
-
 - [Discord Channel](<https://discord.gg/K7p8snTzHA>)
 
 ### Upcoming Events
 
 
-- [Stat Cafe - Dr. Alex Asher, StataCorp: Wednesday, 4/22/2026 from 11:30AM to 1:00PM in BLOC 503](<https://tamusgsa.github.io/stat%20cafe/2026/04/16/stat-cafe-asher/>)
+- [Stat Cafe - Dr. Rajarshi Guhaniyogi: Tuesday, 9/2/2026 from 11:10AM to 12:25PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/09/02/stat-cafe-guhaniyogi/>)
 
-- [Faculty & Staff Appreciation BBQ: Monday, 4/27/2026 from 12:00PM to 2:00PM in the Fisher Bowl (Blocker 453)](<https://tamusgsa.github.io/bbq/2026/04/01/faculty-appreciation-bbq/>)
 
 
 <!--
