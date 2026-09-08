@@ -5,11 +5,45 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0673.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0673.JPEG
+    alt: "IMG_0673.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0675.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0675.JPEG
+    alt: "IMG_0675.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0676.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0676.JPEG
+    alt: "IMG_0676.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0678.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0678.JPEG
+    alt: "IMG_0678.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0680.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0680.JPEG
+    alt: "IMG_0680.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0681.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0681.JPEG
+    alt: "IMG_0681.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0683.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0683.JPEG
+    alt: "IMG_0683.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0684.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0684.JPEG
+    alt: "IMG_0684.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0687.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0687.JPEG
+    alt: "IMG_0687.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0688.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0688.JPEG
+    alt: "IMG_0688.JPEG"
+  - url: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0690.JPEG
+    image_path: /assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0690.JPEG
+    alt: "IMG_0690.JPEG"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/20260422_120552.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/IMG_0679.JPEG?raw=true" alt="Header" width="300" style="float: right;"/> 
+
 
 ### Scalable Uncertainty for Structured Data without MCMC: Statistical Models and Deep Learning in the AI Era
 
@@ -42,9 +76,9 @@ Dr. Rajarshi Guhaniyogi joined Texas A&M in 2021, following his tenure as an ass
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEnEmymzzU0?si=wj7aBvE_v2OlDE-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
