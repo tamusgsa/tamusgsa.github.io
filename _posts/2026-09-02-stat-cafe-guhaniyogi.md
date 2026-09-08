@@ -8,12 +8,12 @@ category:
 ---
 
 <!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Asher_Apr_22_2026/20260422_120552.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Guhaniyogi_Sept_08_2026/20260422_120552.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
 -->
 
 ### Scalable Uncertainty for Structured Data without MCMC: Statistical Models and Deep Learning in the AI Era
 
-- Time: Tuesday, 9/2/2026 from 11:10AM to 12:20PM
+- Time: Tuesday, 9/8/2026 from 11:10AM to 12:20PM
 - Location: BLOC 448
 
 

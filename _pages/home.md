@@ -35,7 +35,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 ### Upcoming Events
 
 
-- [Stat Cafe - Dr. Rajarshi Guhaniyogi: Tuesday, 9/2/2026 from 11:10AM to 12:25PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/09/02/stat-cafe-guhaniyogi/>)
+- [Stat Cafe - Dr. Rajarshi Guhaniyogi: Tuesday, 9/8/2026 from 11:10AM to 12:25PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/09/02/stat-cafe-guhaniyogi/>)
 
 
 
