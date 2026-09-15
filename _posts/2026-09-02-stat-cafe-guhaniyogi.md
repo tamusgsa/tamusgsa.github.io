@@ -47,7 +47,7 @@ layouts_gallery:
 
 ### Scalable Uncertainty for Structured Data without MCMC: Statistical Models and Deep Learning in the AI Era
 
-- Time: Tuesday, 9/8/2026 from 11:10AM to 12:20PM
+- Time: Tuesday, 9/8/2026 from 11:10AM to 12:25PM
 - Location: BLOC 448
 
 

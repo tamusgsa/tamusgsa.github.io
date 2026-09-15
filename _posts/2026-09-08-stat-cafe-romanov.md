@@ -13,7 +13,7 @@ category:
 
 ### On Principal Component Regression in High Dimension
 
-- Time: Tuesday, 9/15/2026 from 11:10AM to 12:20PM
+- Time: Tuesday, 9/15/2026 from 11:10AM to 12:25PM
 - Location: BLOC 448
 
 
