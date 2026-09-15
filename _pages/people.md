@@ -65,7 +65,6 @@ p {font-size: 22px;}
 
 
 <p> Social Media Manager - Wesley Halstead (wesley.halstead@tamu.edu) </p>
-</div>
 
 
 
