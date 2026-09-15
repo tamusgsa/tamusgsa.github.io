@@ -5,11 +5,21 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5975.jpg
+    image_path: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5975.jpg
+    alt: "IMG_5975.jpg"
+  - url: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5976.jpg
+    image_path: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5976.jpg
+    alt: "IMG_5976.jpg"
+  - url: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5977.jpg
+    image_path: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5977.jpg
+    alt: "IMG_5977.jpg"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_0679.JPEG?raw=true" alt="Header" width="300" style="float: right;"/> 
--->
+<
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5974.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
+
 
 ### On Principal Component Regression in High Dimension
 
@@ -47,9 +57,9 @@ Dr. Elad Romanov received his Ph.D. in Computer Science from the Hebrew Universi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEnEmymzzU0?si=wj7aBvE_v2OlDE-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
