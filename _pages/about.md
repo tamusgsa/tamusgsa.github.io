@@ -31,6 +31,9 @@ layouts_gallery:
   - url: /assets/images/sgsa-officers/officers2024temp.JPG
     image_path: /assets/images/sgsa-officers/officers2024temp.JPG
     alt: "Officers: 2024-2025"
+  - url: /assets/images/sgsa-officers/officers2026.JPG
+    image_path: /assets/images/sgsa-officers/officers2026.JPG
+    alt: "Officers: 2025-2026"
 last_modified_at: 2023-01-26T11:59:26-05:00
 toc: true
 classes: wide
@@ -55,7 +58,7 @@ p {font-size: 22px;}
 **The Statistics Graduate Student Association, (SGSA)**, is an organization that provides the best possible environment to encourage the interaction between students and faculty by bestowing forums for students to connect with faculty as they discuss their current research, encouraging participation in academic events outside of the traditional classroom setting, and by giving back to the community that supports all of us in the A&M family.
 
 {% include gallery id="layouts_gallery" caption="TAMU SGSA officers from `2014-2015`, `2015-2016`, `2016-2017`, `2017-2018`, `2018-2019`, `2019-2020`, `2022-2023`, `2023-2024`,
-`2024-2025`." %}
+`2024-2025`,`2025-2026`." %}
 
 ## Documents
 
