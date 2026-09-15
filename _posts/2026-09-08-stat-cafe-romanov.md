@@ -6,9 +6,9 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
-  - url: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5975.jpg
-    image_path: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5975.jpg
-    alt: "IMG_5975.jpg"
+  - url: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5974.jpg
+    image_path: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5974.jpg
+    alt: "IMG_5974.jpg"
   - url: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5976.jpg
     image_path: /assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5976.jpg
     alt: "IMG_5976.jpg"
@@ -18,7 +18,7 @@ layouts_gallery:
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5974.jpg?raw=true" alt="Header" width="320" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5975.jpg?raw=true" alt="Header" width="320" style="float: right;"/> 
 
 
 ### On Principal Component Regression in High Dimension
