@@ -34,7 +34,7 @@ p {font-size: 22px;}
 
 <br>
 
-### 2026 - 2027 SGSA Officers
+#### 2026 - 2027 SGSA Officers
 
 <p> President - Michael Price (mprice@tamu.edu) </p> 
 
