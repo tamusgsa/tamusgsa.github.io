@@ -17,8 +17,8 @@ layouts_gallery:
     alt: "IMG_5977.jpg"
 ---
 
-<
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5974.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Romanov_Sept_15_2026/IMG_5974.jpg?raw=true" alt="Header" width="320" style="float: right;"/> 
 
 
 ### On Principal Component Regression in High Dimension
