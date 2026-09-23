@@ -7,9 +7,9 @@ category:
   - Stat Cafe
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_0679.JPEG?raw=true" alt="Header" width="300" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7527.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
+
 
 ### Accelerating Optimal Transport for Data Science
 
