@@ -5,10 +5,14 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
+    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
+    alt: "IMG_7529.jpg"
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7527.jpg?raw=true" alt="Header" width="300" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg?raw=true" alt="Header" width="320" style="float: right;"/> 
 
 
 ### Accelerating Optimal Transport for Data Science
@@ -42,9 +46,9 @@ Dr. Khai Nguyen is an Assistant Professor in the Department of Statistics at Tex
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEnEmymzzU0?si=wj7aBvE_v2OlDE-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
