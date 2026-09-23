@@ -7,7 +7,7 @@ category:
   - Stat Cafe
 layouts_gallery:
   - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7527.jpg
-    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
+    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7527.jpg
     alt: "IMG_7527.jpg"
   - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
     image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
