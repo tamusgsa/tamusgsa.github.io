@@ -12,6 +12,15 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
     image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
     alt: "IMG_7529.jpg"
+  - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5985.jpg
+    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5985.jpg
+    alt: "IMG_5985.jpg"
+  - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5983.jpg
+    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5983.jpg
+    alt: "IMG_5983.jpg"
+  - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5984.jpg
+    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5984.jpg
+    alt: "IMG_5984.jpg"  
 ---
 
 
