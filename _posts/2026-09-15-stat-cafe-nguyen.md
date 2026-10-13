@@ -12,9 +12,6 @@ layouts_gallery:
   - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
     image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg
     alt: "IMG_7529.jpg"
-  - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5985.jpg
-    image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5985.jpg
-    alt: "IMG_5985.jpg"
   - url: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5983.jpg
     image_path: /assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5983.jpg
     alt: "IMG_5983.jpg"
@@ -24,7 +21,7 @@ layouts_gallery:
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_5985.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
 
 
 ### Accelerating Optimal Transport for Data Science
