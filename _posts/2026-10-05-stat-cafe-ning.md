@@ -5,11 +5,18 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Ning_Oct_13_2026/IMG_7625.jpg
+    image_path: /assets/images/stat_cafe/Ning_Oct_13_2026/IMG_7625.jpg
+    alt: "IMG_7625.jpg"
+  - url: /assets/images/stat_cafe/Ning_Oct_13_2026/IMG_7628.jpg
+    image_path: /assets/images/stat_cafe/Ning_Oct_13_2026/IMG_7628.jpg
+    alt: "IMG_7628.jpg"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Ning_Oct_13_2026/IMG_7624.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
+
 
 
 ### Recent Progress and Challenges in Bridging Bayesian Survival Analysis and Deep Learning: Theory, Computation, and Applications
