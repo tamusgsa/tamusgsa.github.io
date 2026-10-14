@@ -34,10 +34,11 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 ### Upcoming Events
 
-- [Meet P&G Statisticians: SGSA Career Panel: Tuesday, October 13, at 3:00 PM Central on Microsoft Teams](<https://tamusgsa.github.io/workflow%20workshop/2026/10/07/workflow-workshop-PG-event/>)
+- [First Year PhD Student Q&A Event: Friday, October 16th, from 11:00 AM to 12:00 PM](<https://tamusgsa.github.io/other/2026/10/14/first-year-qa>)
 
 
 - [Stat Cafe - Ziang Fu: Tuesday, October 20, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/10/13/stat-cafe-fu/>)
+
 
 
 <!--

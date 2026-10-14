@@ -39,7 +39,7 @@ p {font-size: 22px;}
 <p> President - Michael Price (mprice@tamu.edu) </p> 
 
 
-<p> Vice President - Leonardo Damian Cazares Trejo (leonardocazares@tamu.edu) </p> 
+<p> Vice President - Leonardo D. Cázares-Trejo(leonardocazares@tamu.edu) </p> 
 
 
 <p> Secretary - Raymond Hinton (rhinton@tamu.edu) </p> 
