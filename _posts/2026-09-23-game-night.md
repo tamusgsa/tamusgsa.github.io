@@ -1,5 +1,5 @@
 ---
-title: "SGSA Game Night, 9-30-26"
+title: "SGSA Game Night, 9/30/26"
 layout: single
 classes: wide
 category:

@@ -1,5 +1,5 @@
 ---
-title: "Game Night, 3-22-24"
+title: "Game Night, 3/22/24"
 layout: single
 classes: wide
 category:
