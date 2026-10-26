@@ -5,11 +5,54 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/IMG_0639.jpg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/IMG_0639.jpg
+    alt: "IMG_0639.jpg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image.jpeg
+    alt: "20261020_Image.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-1.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-1.jpeg
+    alt: "20261020_Image-1.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-2.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-2.jpeg
+    alt: "20261020_Image-2.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-3.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-3.jpeg
+    alt: "20261020_Image-3.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-4.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-4.jpeg
+    alt: "20261020_Image-4.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-5.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-5.jpeg
+    alt: "20261020_Image-5.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-6.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-6.jpeg
+    alt: "20261020_Image-6.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-7.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-7.jpeg
+    alt: "20261020_Image-7.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-8.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-8.jpeg
+    alt: "20261020_Image-8.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-9.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-9.jpeg
+    alt: "20261020_Image-9.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-10.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-10.jpeg
+    alt: "20261020_Image-10.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-11.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-11.jpeg
+    alt: "20261020_Image-11.jpeg"
+  - url: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-12.jpeg
+    image_path: /assets/images/stat_cafe/Fu_Oct_20_2026/20261020_Image-12.jpeg
+    alt: "20261020_Image-12.jpeg"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Fu_Oct_20_2026/IMG_0640.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
+
 
 
 ### Control-Geometry Straightening for Latent Planning
@@ -43,9 +86,9 @@ Ziang Fu is a second-year PhD student in the Department of Statistics at Texas A
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEnEmymzzU0?si=wj7aBvE_v2OlDE-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
