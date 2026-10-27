@@ -38,7 +38,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 - [SGSA Game Night - Wednesday, 10/28/26, 4:00pm to 6:00pm in the Fisher Bowl (BLOC 453)](<https://tamusgsa.github.io/game%20night/2026/10/19/game-night/>) 
 
 
-- [Stat Cafe - Gayun Kwon: Tuesday, October 27, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/10/21/stat-cafe-kwon/>)
+- [Stat Cafe - Gayun Kwon: Tuesday, 11/3/26, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/10/27/stat-cafe-pellegrino/>)
 
 
 
