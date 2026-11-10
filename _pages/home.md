@@ -35,15 +35,17 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 ### Upcoming Events
 
 
-- [SGSA Halloween BBQ Party: Saturday, 11/7/26, from 4:00 PM to 7:00 PM at Tiffany Park](<https://tamusgsa.github.io/bbq/2026/11/04/halloween-bbq/>)
 
-- [Stat Cafe - Robert Lee: Tuesday, 11/10/26, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/11/04/stat-cafe-lee/>)
+
+- [Stat Cafe - Srijato Bhattacharyya: Tuesday, 11/17/26, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/11/10/stat-cafe-bhattacharyya/>)
 
 
 
 
 
 <!--
+
+- [SGSA Halloween BBQ Party: Saturday, 11/7/26, from 4:00 PM to 7:00 PM at Tiffany Park](<https://tamusgsa.github.io/bbq/2026/11/04/halloween-bbq/>)
 
 - [SGSA Game Night - Wednesday, 9/30/26, 4:00pm to 6:00pm in the Fisher Bowl (BLOC 453)](<https://tamusgsa.github.io/game%20night/2026/09/23/game-night/>) 
 
