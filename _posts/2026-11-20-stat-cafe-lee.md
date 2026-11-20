@@ -1,5 +1,5 @@
 ---
-title: "Stat Cafe - Jaeson Lee"
+title: "Stat Cafe - Jaeseon Lee"
 excerpt: "Statistical Inference for boundary constrained parameters"
 layout: single
 classes: wide
@@ -29,7 +29,7 @@ Estimation and Inference under boundary constraints arise in many areas of stati
 
 ### Our Speaker
 
-Jaeson Lee is a 4th year Statistics PhD student at Texas A&M advised by Dr. Suhasini Subba Rao. His research primarily focuses on time series analysis, graphical models for time series, spectral analysis on dependent data, and estimation and inference on boundary. He received a B.A. in Economics, B.S. in Mathematics and M.S. in Statistics from Hanyang University, Seoul, South Korea. 
+Jaeseon Lee is a 4th year Statistics PhD student at Texas A&M advised by Dr. Suhasini Subba Rao. His research primarily focuses on time series analysis, graphical models for time series, spectral analysis on dependent data, and estimation and inference on boundary. He received a B.A. in Economics, B.S. in Mathematics and M.S. in Statistics from Hanyang University, Seoul, South Korea. 
 
 
 
