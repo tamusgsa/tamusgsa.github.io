@@ -37,7 +37,7 @@ The Statistics Graduate Student Association, (SGSA), is an organization that pro
 
 
 
-- [Stat Cafe - Srijato Bhattacharyya: Tuesday, 11/17/26, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/11/10/stat-cafe-bhattacharyya/>)
+- [Stat Cafe - Jaeson Lee: Tuesday, 11/24/26, from 11:10 AM to 12:25 PM in BLOC 448](<https://tamusgsa.github.io/stat%20cafe/2026/11/20/stat-cafe-lee/>)
 
 
 
