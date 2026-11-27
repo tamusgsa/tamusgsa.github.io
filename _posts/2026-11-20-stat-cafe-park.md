@@ -5,11 +5,21 @@ layout: single
 classes: wide
 category: 
   - Stat Cafe
+layouts_gallery:
+  - url: /assets/images/stat_cafe/Park_Nov_23_202/IMG_0746.JPEG
+    image_path: /assets/images/stat_cafe/Park_Nov_23_202/IMG_0746.JPEG
+    alt: "IMG_0746.JPEG"
+  - url: /assets/images/stat_cafe/Park_Nov_23_202/IMG_0748.JPEG
+    image_path: /assets/images/stat_cafe/Park_Nov_23_202/IMG_0748.JPEG
+    alt: "IMG_0748.JPEG"
+  - url: /assets/images/stat_cafe/Park_Nov_23_202/IMG_0749.JPEG
+    image_path: /assets/images/stat_cafe/Park_Nov_23_2026/IMG_0749.JPEG
+    alt: "IMG_0749.JPEG"
 ---
 
-<!--
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Nguyen_Sept_22_2026/IMG_7529.jpg?raw=true" alt="Header" width="330" style="float: right;"/> 
--->
+
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Park_Nov_23_2026/IMG_0742.JPEG?raw=true" alt="Header" width="330" style="float: right;"/> 
+
 
 
 ### Identifiability and Spectral Estimation of Mixed Memberships in Heterogeneous Multilayer Networks
@@ -44,9 +54,9 @@ Taeseok Park is a 4th year Statistics PhD student at Texas A&M advised by Dr. Je
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEnEmymzzU0?si=wj7aBvE_v2OlDE-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--
+
 ### Gallery
 
 {% include gallery id="layouts_gallery" %}
--->
+
 
