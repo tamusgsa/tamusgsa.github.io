@@ -6,19 +6,19 @@ classes: wide
 category: 
   - Stat Cafe
 layouts_gallery:
+  - url: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0742.JPEG
+    image_path: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0742.JPEG
+    alt: "IMG_0742.JPEG"
   - url: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0746.JPEG
     image_path: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0746.JPEG
     alt: "IMG_0746.JPEG"
   - url: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0748.JPEG
     image_path: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0748.JPEG
     alt: "IMG_0748.JPEG"
-  - url: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0749.JPEG
-    image_path: /assets/images/stat_cafe/Park_Nov_24_2026/IMG_0749.JPEG
-    alt: "IMG_0749.JPEG"
 ---
 
 
-<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Park_Nov_24_2026/IMG_0742.JPEG?raw=true" alt="Header" width="330" style="float: right;"/> 
+<img src="https://github.com/tamusgsa/tamusgsa.github.io/blob/master/assets/images/stat_cafe/Park_Nov_24_2026/IMG_0749.JPEG?raw=true" alt="Header" width="330" style="float: right;"/> 
 
 
 
